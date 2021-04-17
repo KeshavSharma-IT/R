@@ -1,4 +1,4 @@
-calculatea mean and SD of 100 random no
+Create a Function to calculat mean and SD of 100 random no
 
 meanrand<-function(n){
   x=rnorm(n,1,100)
