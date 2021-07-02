@@ -1,0 +1,9 @@
+name,state,pincode,age
+deepak,delhi,100101,56
+vikas,up,3876,67
+rohiy,hp,65564,77
+riya,pb,262622,76
+sohan,delhi,47474,34
+pawan,hapur,456454,67
+aman,chan,34667,76
+
